@@ -22,7 +22,7 @@ SECRET_KEY = '^$^d_e5h*+!cxxe^*-c=$m2bnlwfcrnjf)t)pj3xid9&6#f3+v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = bool(int(os.environ.get('DEBUG', 1)))
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['adicionar aqui o link da aws para que ele seja visivel', '127.0.0.1']
 
 
 # Application definition
